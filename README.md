@@ -1,3 +1,3 @@
 # Hello-World
-My first repository in order to figure out how to use this thingamajig.
+This repository is for practicing the GitHub Flow.
 I am a carbon-based life form descended from an ape.
